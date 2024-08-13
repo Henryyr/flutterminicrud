@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a563dae-db90-4872-96d0-4574234235b8)![040a7d02-ef6b-4b35-8408-fa485a2e6d42](https://github.com/user-attachments/assets/cea3cd9e-f657-4025-9ae8-4ea563abaa7b)# Flutter Mini Project
+## Flutter Mini Project
 
 This is a mini Flutter project that demonstrates CRUD operations using the DummyJSON API.
 
